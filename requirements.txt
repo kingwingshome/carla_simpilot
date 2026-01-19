@@ -1,0 +1,6 @@
+nicegui
+carla
+pygame
+psutil
+Pillow
+numpy

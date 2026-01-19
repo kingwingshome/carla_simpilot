@@ -2,10 +2,8 @@
 
 [简体中文](#chinese) | [繁體中文](#traditional_chinese) | [English](#english)
 
-<div align="center">
-    <video src="assets/demo_show.mp4" width="100%" controls autoplay loop muted></video>
-</div>
 
+![DemoShowSnapShot](assets/demo_show_snapshot.png)
 ---
 
 <a id="chinese"></a>
@@ -191,3 +189,8 @@
 ### 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+### DemoShow
+<div align="center">
+    <video src="assets/demo_show.mp4" width="100%" controls autoplay loop muted></video>
+</div>
